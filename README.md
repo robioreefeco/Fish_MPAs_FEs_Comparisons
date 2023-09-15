@@ -8,12 +8,3 @@ Overview This paper explores the application of functional ecology in enhancing 
 
 Contents data/: Contains the raw data used in the study. code/: Includes scripts and code used for data analysis, simulations, and generating figures. results/: Contains output files, including figures and tables generated during the analysis. supplementary_material/: Additional documents and files supporting the paper.
 
-How to Use
-
-Data: The data/ directory contains the raw data used in the study. Please refer to the paper for details on data sources and formats.
-
-Code: The code/ directory includes scripts used for data processing, analysis, and figure generation. Each script is appropriately named for easy identification.
-
-Results: The results/ directory holds output files, including figures and tables generated during the analysis. These files are organized by figure or table number.
-
-Supplementary Material: The supplementary_material/ directory contains additional documents and files that support the paper. This may include supplementary figures, data dictionaries, or extended analyses.
